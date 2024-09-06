@@ -1,20 +1,12 @@
 Units Remaining
 * IT Project Management
-* Project Implementation
 * Business Intelligence
-* Entrepreneurship & Innovations Development
 * Distributed Systems
 * Numerical Analysis & Computations
-* Gender, Sexuality & HIV/AIDS
-* E-commerce Foundations
-* Software Engineering II
 * Compiler Construction
-* Legal & Ethical Issues
-* Computer Systems Security
+* Gender, Sexuality & HIV/AIDS
 * Software Engineering
-* Computer Networks
-* Mobile Computing
+* Software Engineering II
+* Computer Systems Security
 * Software Project Management
-* Management Information Systems
 * Advanced Database Systems
-* Legal & Ethical Issues in Computing
