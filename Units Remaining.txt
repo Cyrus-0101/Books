@@ -1,6 +1,7 @@
 Units Remaining
 * Compiler Construction
 * Gender, Sexuality & HIV/AIDS
-* Software Engineering
+* Simulation and Modelling
 * Software Engineering II
 * Software Project Management
+* Computer Games Programming
