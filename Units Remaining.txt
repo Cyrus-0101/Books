@@ -1,12 +1,6 @@
 Units Remaining
-* IT Project Management
-* Business Intelligence
-* Distributed Systems
-* Numerical Analysis & Computations
 * Compiler Construction
 * Gender, Sexuality & HIV/AIDS
 * Software Engineering
 * Software Engineering II
-* Computer Systems Security
 * Software Project Management
-* Advanced Database Systems
